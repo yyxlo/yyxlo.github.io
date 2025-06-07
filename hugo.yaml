@@ -5,7 +5,18 @@ theme: 'PaperMod'
 
 # home-inform
 params:
-  discription: "Hello World"
+  homeInfoParams:
+    Title: Hi there
+    Content: Welcome to my website
+  
+  SocialIcons:
+    - name: "IG"
+      url: "https://www.instagram.com/paiii.abm/"
+    - name: "Youtube"
+      url: "https://www.youtube.com/@paiiiabm"
+
+  cover:
+    responsiveImages: false
 
 menu:
   main:
@@ -15,3 +26,8 @@ menu:
     - name: "About"
       url: "/about/"
       weight: 2
+    - name: "Tag"
+      url: "/tags/"
+      weight: 3
+
+enableEmoji: true
