@@ -1,0 +1,17 @@
+baseURL: 'https://yyxlo.github.io/'
+languageCode: 'en-us'
+title: 'My New Hugo Site'
+theme: 'PaperMod'
+
+# home-inform
+params:
+  discription: "Hello World"
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/about/"
+      weight: 2
