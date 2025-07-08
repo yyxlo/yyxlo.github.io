@@ -6,7 +6,7 @@ theme: 'PaperMod'
 # home-inform
 params:
   homeInfoParams:
-    Title: Hi there
+    Title: A thought a day keeps ignorance away
     Content: 理性是人類獨特的特質，也是與其他萬物截然不同之處。透過邏輯思考、 嚴謹推論、 質疑和批判，讓人類得以從事追尋真理和知識這項活動。科學和哲學便是這項心智活動最宏偉的表現形式。身而為人來到這個世界，怎能不好好享受這個過程。
   
   SocialIcons:
