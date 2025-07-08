@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ecology on Sci x Phi Lab</title>
-    <link>https://yyxlo.github.io/tags/ecology/</link>
+    <link>http://localhost:1313/tags/ecology/</link>
     <description>Recent content in Ecology on Sci x Phi Lab</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jun 2025 16:08:30 +0800</lastBuildDate>
-    <atom:link href="https://yyxlo.github.io/tags/ecology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ecology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Post</title>
-      <link>https://yyxlo.github.io/posts/second-post/</link>
+      <link>http://localhost:1313/posts/second-post/</link>
       <pubDate>Sat, 07 Jun 2025 16:08:30 +0800</pubDate>
-      <guid>https://yyxlo.github.io/posts/second-post/</guid>
+      <guid>http://localhost:1313/posts/second-post/</guid>
       <description>&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
 &lt;p&gt;The second post.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>https://yyxlo.github.io/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Sat, 07 Jun 2025 14:38:32 +0800</pubDate>
-      <guid>https://yyxlo.github.io/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;&amp;#x1f44b; This is the &lt;strong&gt;first&lt;/strong&gt; post.&lt;/p&gt;</description>
     </item>
