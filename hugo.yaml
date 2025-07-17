@@ -3,6 +3,12 @@ languageCode: 'en-us'
 title: 'Sci x Phi Lab'
 theme: 'PaperMod'
 
+# 允許 Hugo 在 Markdown 中渲染內嵌 HTML，讓 <sup>、<sub>、<mark> 等 HTML 標籤能正常呈現。
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 # home-inform
 params:
   homeInfoParams:
