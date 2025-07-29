@@ -22,7 +22,12 @@ params:
       url: ""
 
   cover:
-    responsiveImages: false
+    responsiveImages: true
+    linkFullImages: false
+# Other Posts suggestion below a post
+  ShowPostNavLinks: false
+# comments
+  comments: true
 
 menu:
   main:
