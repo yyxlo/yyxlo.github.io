@@ -29,6 +29,9 @@ params:
 # comments
   comments: true
 
+  ShowShareButtons: true
+  ShowReadingTime: true
+
 menu:
   main:
     - name: "Home"
