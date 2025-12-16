@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cognition on Sci x Phi Lab</title>
-    <link>https://yyxlo.github.io/tags/cognition/</link>
+    <link>http://localhost:1313/tags/cognition/</link>
     <description>Recent content in Cognition on Sci x Phi Lab</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yyxlo.github.io/tags/cognition/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cognition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PAPER | 政黨立場的政策態度的影響力</title>
-      <link>https://yyxlo.github.io/posts/20250725/</link>
+      <link>http://localhost:1313/posts/20250725/</link>
       <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://yyxlo.github.io/posts/20250725/</guid>
+      <guid>http://localhost:1313/posts/20250725/</guid>
       <description>&lt;p&gt;如果說閱讀過的論文中，有哪些是最令人印象深刻、極具啟發的，那麼Cohen (2003)這篇非生物學領域，標題爲&amp;quot;&lt;strong&gt;Party Over Policy: The Dominating Impact of Group Influence on Political Beliefs.&lt;/strong&gt;&amp;ldquo;的論文絕對在我名單之中。這篇論文已有將近2000次的引用，其內容也在不少書籍中被提及。&lt;/p&gt;
 &lt;p&gt;這篇論文探討「政治團體」、「個人原有的意識形態」與「政策本身的實質內容」，如何影響一個人對某項政策的態度。在理想世界中，一位理性、成熟、民主的公民，對於一項政策的支持與否，應該很大部分取決於個人的意識形態和政策本身的內容，例如一位保守派人士，支持政府縮減社會福利政策也是相當合理的。但這篇文章的結論告訴你，並沒有！這個研究主要的方法，就是給予受試者一份政策文件，政策內容可能是偏左派(例如社會福利較慷慨)，也可能是偏右派的(社會福利較嚴苛)，然後詢問受試者對這份政策的支持或反對程度。透過4個子試驗，我們得知了幾個非常有趣的結論：&lt;/p&gt;
 &lt;ol&gt;
@@ -38,9 +38,9 @@
     </item>
     <item>
       <title>BOOK | 雜訊</title>
-      <link>https://yyxlo.github.io/posts/20240103%E9%9B%9C%E8%A8%8A/</link>
+      <link>http://localhost:1313/posts/20240103%E9%9B%9C%E8%A8%8A/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://yyxlo.github.io/posts/20240103%E9%9B%9C%E8%A8%8A/</guid>
+      <guid>http://localhost:1313/posts/20240103%E9%9B%9C%E8%A8%8A/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;cover&#34; loading=&#34;lazy&#34; src=&#34;https://cdn.readmoo.com/cover/d5/gk78jhf_460x580.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;相信大多數人應該都有寫過簡答題或是申論題的經驗，可能會覺得自己寫的還不錯啊但得到的分數卻不怎麼樣，反而有時瞎掰一陣分數還比較高，尤其是那些沒有標準答案的題目。如果告訴你，只要換個老師來改試卷，得到的分數就很有可能不一樣、甚至差異差很大，我想你應該不訝異；但如果告訴你，根本不用換老師，只要讓同一位老師隔三天後再來改一次試卷，給你的分數就有很大的機率會不一樣，你會有什麼想法？&lt;/p&gt;
 &lt;p&gt;改個考卷嘛，或許有些人還能接受。但是如果把申論題的答題換成犯罪行為、把老師換成法官、然後把分數改成刑罰呢？同樣地犯法行為，可能因為不同的法官、甚至同個法官但過幾天後再來判決一次，就可能得到1年、3年甚至10年等不同的刑法。這樣嚴重影響權益及人生的事情，應該不是接不接受的問題，而是根本覺得荒謬對吧？&lt;/p&gt;
